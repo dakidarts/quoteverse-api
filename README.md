@@ -10,7 +10,7 @@
 ## 🔗 Live Links
 
 - 🔥 **GitHub Repo**: [github.com/dakidarts/quoteverse-api](https://github.com/dakidarts/quoteverse-api)  
-- 🚀 **RapidAPI Page**: [rapidapi.com/kidddevs/api/quoteverse](https://rapidapi.com/kidddevs/api/quoteverse)  
+- 🚀 **RapidAPI Page**: [rapidapi.com/kidddevs/api/quoteverse](https://rapidapi.com/dakidarts-dakidarts-default/api/quoteverse)  
 - 📖 **Official API Docs**: [dakidarts.com/api/quoteverse-api](https://dakidarts.com/api/quoteverse-api)  
 - 🌐 **Supported Languages (Google Translate)**: [cloud.google.com/translate/docs/languages](https://cloud.google.com/translate/docs/languages)
 
